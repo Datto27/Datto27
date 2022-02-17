@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning flutter
 - 🤔 I’m looking for job
 - 📫 How to reach me: ...
-- ⚡ Fun fact: Did you hear about the claustrophobic astronaut? He just needed a little space.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Datto27&show_icons=true&theme=radical&count_private=true" />
 
