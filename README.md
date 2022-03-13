@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on mobile application
 - 🌱 I’m currently learning flutter
-- 🤔 I’m looking for job
+- 🤔 I’m looking for a job
 - 📫 How to reach me: ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=Datto27&show_icons=true&theme=radical&count_private=true" />
