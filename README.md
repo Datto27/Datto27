@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on useful website
-- 🌱 I’m currently learning flutter
 - 🤔 I’m looking for a job
 - 📫 How to reach me: ...
 
