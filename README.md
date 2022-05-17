@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 I’m currently working on mobile app
 - 🤔 I’m looking for a job
