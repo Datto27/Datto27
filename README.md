@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on mobile app
 - 🤔 I’m looking for a job
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/dato-getsadze-47b665221" target="_blank">link</a>
 
 <!-- ![](https://komarev.com/ghpvc/?username=Datto27) -->
 
