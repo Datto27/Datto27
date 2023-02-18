@@ -7,9 +7,9 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Datto27) -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Datto27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=Datto27&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Datto27&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datto27&layout=compact&theme=radical&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datto27&layout=compact&theme=radical&langs_count=10" /> -->
 
 # The main tools I use
 
