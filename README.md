@@ -4,7 +4,7 @@
 - 🤔 I’m looking for a job
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dato-getsadze-47b665221" target="_blank">link</a>
 
-<!-- ![](https://komarev.com/ghpvc/?username=Datto27) -->
+![](https://komarev.com/ghpvc/?username=Datto27)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Datto27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Datto27&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> -->
@@ -28,10 +28,6 @@
   <img src="https://img.shields.io/badge/scss-%231572B6.svg?style=for-the-badge&logo=scss&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-<div>
-  <img src="https://aleen42.github.io/badges/src/illustrator.svg" />
-  <img src="https://aleen42.github.io/badges/src/after_effects.svg" />
-</div>
 
 <!-- # Others
 <div>
@@ -44,4 +40,4 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</div> -->
+</div> 
