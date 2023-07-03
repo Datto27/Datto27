@@ -4,7 +4,7 @@
 - 🤔 I’m looking for a job
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dato-getsadze-47b665221" target="_blank">link</a>
 
-![](https://komarev.com/ghpvc/?username=Datto27)
+<!-- ![](https://komarev.com/ghpvc/?username=Datto27) -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Datto27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Datto27&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> -->
