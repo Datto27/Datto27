@@ -11,7 +11,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datto27&layout=compact&theme=radical&langs_count=10" />
 
-# The main tools I use
+# Main tools I use
 
 <div style={{display: "flex"}}>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
