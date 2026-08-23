@@ -14,48 +14,30 @@
 ## Main tools I use
 ### 🤖 Languages
 <div style={{display: "flex"}}>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,go,dart,css,sass" />
 </div>
 
-### 📜 Frameworks and libraries
+### 📜 Frontend frameworks/libraries
 <div style={{display: "flex"}}>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/-Socket.io-000000?style=flat&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-%2300ADD8.svg?&logo=go&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,next,reactnative,wails" />
+</div>
+
+### 📜 Backend frameworks/libraries
+<div style={{display: "flex"}}>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nest,gin,socketio,rabbitmq,langchain" />
 </div>
 
 ### 🧰 DBs
 <div style={{display: "flex"}}>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Gorm-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,redis,sequelize,prisma,gorm" />
 </div>
 
 ### ☁ Services and Tools
 <div style={{display: "flex"}}>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github,aws,firebase,figma,docker,yarn,npm" />
 </div>
 
 ### 💻 OSs
 <div style={{display: "flex"}}>
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,fedora,ubuntu,macos" />
 </div>
