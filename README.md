@@ -14,12 +14,12 @@
 ## Main tools I use
 ### 🤖 Languages
 <div style={{display: "flex"}}>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,go,dart,css,sass" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,go,c,dart,css,sass" />
 </div>
 
 ### 📜 Frontend frameworks/libraries
 <div style={{display: "flex"}}>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,next,reactnative,wails" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,next,reactnative,wails,figma" />
 </div>
 
 ### 📜 Backend frameworks/libraries
@@ -34,7 +34,7 @@
 
 ### ☁ Services and Tools
 <div style={{display: "flex"}}>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github,aws,firebase,figma,docker,yarn,npm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github,aws,googlecloud,firebase,docker,yarn,npm" />
 </div>
 
 ### 💻 OSs
