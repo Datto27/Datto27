@@ -14,30 +14,25 @@
 ## Main tools I use
 ### 🤖 Languages
 <div style={{display: "flex"}}>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,go,c,dart,css,sass" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,go,c,dart" />
 </div>
 
-### 📜 Frontend frameworks/libraries
+### 📜 Frontend tools
 <div style={{display: "flex"}}>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,next,reactnative,wails,figma" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,next,reactnative,wails,figma,css,sass" />
 </div>
 
-### 📜 Backend frameworks/libraries
+### 📜 Backend tools
 <div style={{display: "flex"}}>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nest,gin,socketio,rabbitmq,langchain" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nest,gin,socketio,rabbitmq,langchain,postgres,mysql,mongodb,redis,sequelize,prisma,gorm" />
 </div>
 
-### 🧰 DBs
-<div style={{display: "flex"}}>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,redis,sequelize,prisma,gorm" />
-</div>
-
-### ☁ Services and Tools
+### ☁ Cloud and Services
 <div style={{display: "flex"}}>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github,aws,googlecloud,firebase,docker,yarn,npm" />
 </div>
 
 ### 💻 OSs
 <div style={{display: "flex"}}>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,fedora,ubuntu,macos" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora,ubuntu,macos,windows" />
 </div>
